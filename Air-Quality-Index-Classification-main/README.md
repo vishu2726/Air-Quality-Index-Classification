@@ -174,8 +174,8 @@ The project demonstrates the effectiveness of machine learning techniques for en
 
 # Author
 
-## Thota Vivek
+## Boddu Vishwesh
 
-GitHub: https://github.com/thota-vivek05
+GitHub: https://github.com/vishu2726
 
 ---
